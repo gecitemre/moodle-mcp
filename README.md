@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 3. Create a `.env` file in the project root with your Moodle configuration:
 ```env
-MOODLE_URL=https://your-moodle-instance.com
+MOODLE_URL=https://odtuclass.metu.edu.tr
 MOODLE_TOKEN=your_moodle_token
 ```
 
