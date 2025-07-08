@@ -1,12 +1,10 @@
 import os
 from datetime import datetime
-from typing import List, Optional
 
 import mcp
 import requests
 from dotenv import load_dotenv
 from mcp.server.fastmcp import FastMCP  # Import FastMCP, the quickstart server base
-from pydantic import BaseModel
 
 load_dotenv()
 
