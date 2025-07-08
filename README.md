@@ -1,6 +1,6 @@
 # Moodle MCP
 
-A Moodle integration using FastMCP that provides a set of tools to interact with Moodle's Web Services API. This project allows you to easily access various Moodle functionalities programmatically.
+A Moodle integration using FastMCP that provides a set of tools to interact with Moodle's Web Services API. This project allows programs like Claude or Cursor to interact with Moodle.
 
 ## Features
 
@@ -25,7 +25,7 @@ A Moodle integration using FastMCP that provides a set of tools to interact with
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/moodle-mcp.git
+git clone https://github.com/gecitemre/moodle-mcp.git
 cd moodle-mcp
 ```
 
