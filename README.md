@@ -40,14 +40,6 @@ MOODLE_URL=https://odtuclass.metu.edu.tr
 MOODLE_TOKEN=your_moodle_token
 ```
 
-## Usage
-
-Run the MCP server:
-
-```bash
-python main.py
-```
-
 ## Environment Variables
 
 - `MOODLE_URL`: The base URL of your Moodle instance
