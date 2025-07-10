@@ -1,6 +1,6 @@
 # Moodle MCP
 
-A Moodle integration using FastMCP that provides a set of tools to interact with Moodle's Web Services API. This project allows programs like Claude or Cursor to interact with Moodle.
+A Moodle integration using FastMCP that provides a set of tools to interact with Moodle's Web Services API. This project allows programs like Claude Desktop or Cursor to interact with Moodle.
 
 ## Features
 
